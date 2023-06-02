@@ -23,4 +23,7 @@
 
 
 ###  Contact with me:
-- [Telegram](https://img.shields.io/discourse/users?server=https%3A%2F%2Ft.me%2F%40pidgeycad)
++ <a class="btn_telegram_share" href="https://t.me/pidgeycad?url=ВАШ_URL&text=ТЕКСТ">Telegram</a>
+
+</body>
+</html>

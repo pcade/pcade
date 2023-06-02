@@ -1,5 +1,9 @@
 ### Hi there 👋
-![Header(https://github.com/pcade/pcade/blob/main/for_git.gif)]
+
+<div id="header" align="center">
+  <img src="https://github.com/pcade/pcade/blob/main/for_git.gif" width="100"/>
+</div>
+
 
 <!--
 **pcade/pcade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

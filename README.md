@@ -5,9 +5,9 @@
 ## Hi my name is Grigory i'm Sowtware Enginer and I like cats and Linux
 
 ###  Skills:
-![Python](https://img.shields.io/badge/--<COLOR>?style=social&logo=python)
-![Bash](https://img.shields.io/badge/-Bash-white?style=)
-![C](https://img.shields.io/badge/--<COLOR>?style=social&logo=C)
+![Python](https://img.shields.io/badge/-Python-<COLOR>?style=social&logo=python)
+![Bash](https://img.shields.io/badge/-Bash-white?style=social&logo=powershell)
+![C](https://img.shields.io/badge/-C-<COLOR>?style=social&logo=C)
 ![Ansible](https://img.shields.io/badge/-Ansible-<COLOR>?style=social&logo=ansible)
 
 ![Debian](https://img.shields.io/badge/-Debian-<COLOR>?style=social&logo=debian)
@@ -24,6 +24,3 @@
 
 ###  Contact with me:
 + <a class="btn_telegram_share" href="https://t.me/pidgeycad?url=ВАШ_URL&text=ТЕКСТ">Telegram</a>
-
-</body>
-</html>

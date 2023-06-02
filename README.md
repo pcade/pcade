@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://github.com/pcade/pcade/blob/main/for_git.gif" width="100"/>
+  <img src="https://github.com/pcade/pcade/blob/main/for_git.gif"/>
 </div>
 
 

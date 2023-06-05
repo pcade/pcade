@@ -29,4 +29,6 @@
 
 
 ###  Contact with me:
-+ <a class="btn_telegram_share" href="https://t.me/pidgeycad?url=ВАШ_URL&text=ТЕКСТ">Telegram</a>
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/pidgeycad)
+[![Gmail](https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail)](pahomovgrigorii@gmail.com)
+

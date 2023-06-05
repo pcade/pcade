@@ -30,5 +30,5 @@
 
 ###  Contact with me:
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/pidgeycad)
-[![Gmail](https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail)](pahomovgrigorii@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail)](https://pahomovgrigorii@gmail.com)
 

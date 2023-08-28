@@ -2,7 +2,7 @@
   <img src="https://github.com/pcade/pcade/blob/main/gif_git.gif"/>
 </div>
 
-## Hi my name is Grigory i'm Sowtware Enginer and I like cats and Linux
+## Hi my name is Grigory i'm automation Enginer and I like cats and Linux
 
 
 

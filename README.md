@@ -4,7 +4,7 @@
 
 ## Hi my name is Grigory i'm automation Enginer and I like cats and Linux
 
-###  [![Python](https://img.shields.io/badge/Codewars-%3CCOLOR%3E?style=social&logo=codewars)](https://www.codewars.com/users/pcade/badges/large)
+###  [![Codewars](https://www.codewars.com/users/pcade/badges/small)](https://www.codewars.com/users/pcade)
 
 
 ###  Skills:

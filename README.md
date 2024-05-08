@@ -12,15 +12,6 @@
 ![Jira](https://img.shields.io/badge/-Jira-<COLOR>?style=social&logo=jira)
 
 
-### OS in love
-![Debian](https://img.shields.io/badge/-Debian-<COLOR>?style=social&logo=debian)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-<COLOR>?style=social&logo=Ubuntu)
-![Centos](https://img.shields.io/badge/-Centos-<COLOR>?style=social&logo=Centos)
-![Linux](https://img.shields.io/badge/-And_other_Linux-<COLOR>?style=social&logo=linux)
-![Mac_OS](https://img.shields.io/badge/-Mac_OS-<COLOR>?style=social&logo=macos)
-
-
-
 ###  Contact with me:
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/gpcade)
 [![Gmail](https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail)](https://pahomovgrigorii@gmail.com)

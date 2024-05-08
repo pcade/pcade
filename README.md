@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://github.com/pcade/pcade/blob/main/gif_git.gif"/>
-</div>
-
 
 ###  Skills:
 [![Python](https://img.shields.io/badge/-Python-<COLOR>?style=social&logo=python)](https://github.com/pcade/python_library)

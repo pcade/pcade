@@ -2,10 +2,6 @@
   <img src="https://github.com/pcade/pcade/blob/main/gif_git.gif"/>
 </div>
 
-## Hi my name is Grigory i'm automation Enginer and I like cats and Linux
-
-###  [![Codewars](https://www.codewars.com/users/pcade/badges/small)](https://www.codewars.com/users/pcade)
-
 
 ###  Skills:
 [![Python](https://img.shields.io/badge/-Python-<COLOR>?style=social&logo=python)](https://github.com/pcade/python_library)

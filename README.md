@@ -1,6 +1,7 @@
 
 ###  Skills:
-[![Codewars](https://www.codewars.com/users/pcade/badges/small)](https://www.codewars.com/users/pcade)\n
+[![Codewars](https://www.codewars.com/users/pcade/badges/small)](https://www.codewars.com/users/pcade)
+
 [![Python](https://img.shields.io/badge/-Python-<COLOR>?style=social&logo=python)](https://github.com/pcade/python_library)
 [![Bash](https://img.shields.io/badge/-Bash-white?style=social&logo=powershell)](https://github.com/pcade/bash_library)
 [![C](https://img.shields.io/badge/-C-<COLOR>?style=social&logo=C)](https://github.com/pcade/Cansi)

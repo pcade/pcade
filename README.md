@@ -2,7 +2,7 @@
 ###  Skills:
 [![Codewars](https://www.codewars.com/users/pcade/badges/small)](https://www.codewars.com/users/pcade)
 
-[![Стаья на Хабр](https://play-lh.googleusercontent.com/S9KgbCFl5d8gXtfdW6IRaJZwqqxfhzINu07kFHsIO1jOL5Iv6dPjloSScJQzxk7G3nY=w240-h480)](https://habr.com/ru/companies/aquarius/articles/899068/)
+[![Стаья на Хабр](https://habr.com/ru/companies/aquarius/articles/899068/)
 
 [![Python](https://img.shields.io/badge/-Python-<COLOR>?style=social&logo=python)](https://github.com/pcade/python_library)
 [![Bash](https://img.shields.io/badge/-Bash-white?style=social&logo=powershell)](https://github.com/pcade/bash_library)

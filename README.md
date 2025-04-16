@@ -6,6 +6,7 @@
 
 ---
 ### ✍️ My Article
+[![Habr](https://img.shields.io/badge/📖_Habr_Article-65A3BE?style=for-the-badge)]
 [Статья на Хабр - **Мой идеальный Ubuntu: настройка системы под свои нужды**](https://habr.com/ru/companies/aquarius/articles/899068/)
 
 ---

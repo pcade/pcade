@@ -5,13 +5,12 @@
 [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)](https://github.com/pcade/ansible_library)
 
 ---
-### ✍️ My Article
 ![Habr](https://img.shields.io/badge/📖_Habr_Article-65A3BE?style=for-the-badge)
 - [**Мой идеальный Ubuntu: настройка системы под свои нужды**](https://habr.com/ru/companies/aquarius/articles/899068/)
 
 ---
 ### 🏆 Achievements
-[![Codewars](https://www.codewars.com/users/pcade/badges/large)](https://www.codewars.com/users/pcade)  
+[![Codewars](https://www.codewars.com/users/pcade/badges/medium)](https://www.codewars.com/users/pcade)  
 
 ---
 ### 📫 Contact Me

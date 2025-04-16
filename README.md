@@ -10,7 +10,7 @@
 
 ---
 ### 🏆 Achievements
-[![Codewars](https://www.codewars.com/users/pcade/badges/medium)](https://www.codewars.com/users/pcade)  
+[![Codewars](https://www.codewars.com/users/pcade/badges/small)](https://www.codewars.com/users/pcade)  
 
 ---
 ### 📫 Contact Me

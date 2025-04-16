@@ -1,7 +1,6 @@
 ### 🏆 Achievements
 
 [![Codewars](https://www.codewars.com/users/pcade/badges/large)](https://www.codewars.com/users/pcade)  
-*(Нажмите на бейдж для перехода к профилю)*
 
 ---
 

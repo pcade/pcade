@@ -8,6 +8,8 @@
 ![Habr](https://img.shields.io/badge/📖_Habr_Article-65A3BE?style=for-the-badge)
 - [**Мой идеальный Ubuntu: настройка системы под свои нужды**](https://habr.com/ru/companies/aquarius/articles/899068/)
 
+- [**My ideal Ubuntu: customizing the system to suit my needs.**]([https://habr.com/ru/companies/aquarius/articles/899068/](https://github.com/pcade/perfect-ubuntu-setup))
+
 ---
 ### 🏆 Achievements
 [![Codewars](https://www.codewars.com/users/pcade/badges/small)](https://www.codewars.com/users/pcade)  

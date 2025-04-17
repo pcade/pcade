@@ -9,7 +9,7 @@
 - [**Мой идеальный Ubuntu: настройка системы под свои нужды**](https://habr.com/ru/companies/aquarius/articles/899068/)
 
 ![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-- [**My ideal Ubuntu: customizing the system to suit my needs**]([https://habr.com/ru/companies/aquarius/articles/899068/](https://github.com/pcade/perfect-ubuntu-setup))
+- [**My ideal Ubuntu: customizing the system to suit my needs**]((https://github.com/pcade/perfect-ubuntu-setup))
 
 ---
 ### 🏆 Achievements

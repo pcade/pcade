@@ -26,9 +26,9 @@ Software developer for certification under Astra Linux:
 
 ### 📌 Achievements
 [![Codewars](https://www.codewars.com/users/pcade/badges/small)](https://www.codewars.com/users/pcade)
-- Автоматизация тестового покрытия (увелич. эффективность на 40%)
-- Разработка системы сертификации hardware/software
-- Медаль за работу в медицине во время пандемии
+- Automation of test coverage (increased efficiency by 40%)
+- Development of a hardware/software certification system
+- Medal for work in medicine during a pandemic
 
 ---
 

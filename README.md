@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 Work experience
-- **Aquarius** (08.2024 — present) 
+- [**Aquarius**](https://www.aq.ru/) (08.2024 — present) 
 Backend developer of system testing: 
 `Ansible` `Python` `Bash` `Docker` `GitLab CI/CD`
 

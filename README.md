@@ -18,7 +18,7 @@
 Backend developer of system testing: 
 `Ansible` `Python` `Bash` `Docker` `GitLab CI/CD`
 
-- **RusBITech-Astra** (06.2022 — 08.2024) 
+- [**RusBITech-Astra**](https://astralinux.ru/) (06.2022 — 08.2024) 
 Software developer for certification under Astra Linux: 
 `Python` `Django` `npyscreen` `Docker` `Bitbucket CI`
 

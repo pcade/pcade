@@ -15,7 +15,7 @@
 
 ### 🚀 Work experience
 - [**Aquarius**](https://www.aq.ru/) (08.2024 — present) 
-Backend developer of system testing: 
+Senior backend developer of system testing: 
 `Ansible` `Python` `Bash` `Docker` `GitLab CI/CD`
 
 - [**RusBITech-Astra**](https://astralinux.ru/) (06.2022 — 08.2024) 

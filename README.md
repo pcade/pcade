@@ -30,7 +30,7 @@
 - Open-source infrastructure tooling
 
 ## 📫 Contacts
-[![Linkedin](https://img.icons8.com/?size=10&id=13930&format=png&color=000000)](https://www.linkedin.com/in/grigorii-pahomov/)
-- Habr: [![Habr](https://img.icons8.com/?size=10&id=XxT0ztHxzwm9&format=png&color=000000)](https://habr.com/ru/users/gpcade/)
-- Telegram: [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/gpcade)
+[![Linkedin](https://img.icons8.com/?size=50&id=13930&format=png&color=000000)](https://www.linkedin.com/in/grigorii-pahomov/)
+[![Habr](https://img.icons8.com/?size=50&id=XxT0ztHxzwm9&format=png&color=000000)](https://habr.com/ru/users/gpcade/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/gpcade)
 

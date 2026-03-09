@@ -31,5 +31,6 @@
 
 ## 📫 Contacts
 - LinkedIn: [![Telegram]([https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram](https://img.icons8.com/?size=100&id=13930&format=png&color=000000))](https://www.linkedin.com/in/grigorii-pahomov/)
-- Habr: [![Habr]([[https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://img.icons8.com/?size=100&id=XxT0ztHxzwm9&format=png&color=000000))](https://habr.com/ru/users/gpcade/)
+- Habr: [![Habr](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://habr.com/ru/users/gpcade/)
 - Telegram: [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/gpcade)
+

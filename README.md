@@ -4,7 +4,7 @@
 
 ## 🛠 What I do
 
-- Build infrastructure automation with Python, Bash, and Ansible
+- Build infrastructure automation with Python, Bash, Docker and Ansible
 - Design CI/CD pipelines for testing and validation workflows
 - Develop Linux validation systems for hardware and software environments
 - Work with Debian-based Linux systems, containers, virtualization, and internal tooling

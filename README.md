@@ -23,12 +23,6 @@
 - Technical author on Habr
 - GitHub projects on Linux setup, automation, and infrastructure tooling
 
-## Current focus
-- Kubernetes
-- Terraform
-- Platform engineering
-- Open-source infrastructure tooling
-
 ## 📫 Contacts
 [![Linkedin](https://img.icons8.com/?size=50&id=13930&format=png&color=000000)](https://www.linkedin.com/in/grigorii-pahomov/)
 [![Habr](https://img.icons8.com/?size=50&id=XxT0ztHxzwm9&format=png&color=000000)](https://habr.com/ru/users/gpcade/)
